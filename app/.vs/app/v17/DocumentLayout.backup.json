@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\migrations\\20250707174913_add-item-table-mrigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:migrations\\20250707174913_add-item-table-mrigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|c:\\apache\\htdocs\\app\\biblioteca-controle-estoque-csharp\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D525BF1D-64C8-45C4-9620-E908F0C9EA02}|app.csproj|solutionrelative:app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250707174913_add-item-table-mrigation.cs",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Migrations\\20250707174913_add-item-table-mrigation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250707174913_add-item-table-mrigation.cs",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Migrations\\20250707174913_add-item-table-mrigation.cs",
+              "RelativeToolTip": "Migrations\\20250707174913_add-item-table-mrigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:49:32.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:29:42.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T14:24:40.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:12:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:09:02.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:07:48.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.csproj",
+              "DocumentMoniker": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\app.csproj",
+              "RelativeDocumentMoniker": "app.csproj",
+              "ToolTip": "C:\\apache\\htdocs\\app\\Biblioteca-Controle-Estoque-CSHARP\\app\\app.csproj",
+              "RelativeToolTip": "app.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T16:16:36.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
